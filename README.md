@@ -21,7 +21,7 @@
 
 ### Abstract
 
-- 🔭 I’m currently working at Agile Content. on JavaScript systems using React and React Native
+- 🔭 I’m currently working at Agile Content using React and React Native
 - 🌱 I’m currently learning Node.js, JS improvements and Python
 - 💬 Ask me about: tech, guitar, music...
 
