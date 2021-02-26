@@ -10,7 +10,7 @@
 ---
 ## Hi there 👋!
 
-- 🔭 I’m currently working at Agile Content using React and React Native
+- 🔭 I’m currently looking for a work in Ireland, feel free to contact me on email or Linkedin!
 - 🌱 I’m currently learning Node.js, JS improvements and mobile development
 - 💬 Ask me about: tech, guitar, music...
 
