@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&labelColor=2867B2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmaiaf/)](https://www.linkedin.com/in/gabrielmaiaf/)
 [![Email Badge](https://img.shields.io/badge/Email-black?style=flat-square&labelColor=0072C6&logo=microsoft-outlook&logoColor=white&link=mailto:gabrielmaiaf@outlook.com)](mailto:gabrielmaiaf@outlook.com)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-black?style=flat-square&labelColor=191414&logo=Spotify&logoColor=1DB954&link=https://open.spotify.com/user/bielmaia?si=5pCniKwHRia7F6s2YhbtOQ)](https://open.spotify.com/user/bielmaia?si=5pCniKwHRia7F6s2YhbtOQ)
-[![Personal site Badge](https://img.shields.io/badge/Site-black?style=flat-square&labelColor=FAFBFB&logo=Netlify&logoColor=4B9CBF&link=https://gabrielmaia.dev)](https://gabrielmaia.dev)
+[![Personal site Badge](https://img.shields.io/badge/Site-black?style=flat-square&labelColor=FAFBFB&logo=Netlify&logoColor=4B9CBF&link=https://gabrielmaiaf.dev)](https://gabrielmaiaf.dev)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-black?style=flat-square&labelColor=FCA326&logo=GitLab&logoColor=E24329&link=https://gitlab.com/gabrielmaiaf)](https://gitlab.com/gabrielmaiaf)
 
 ---
